@@ -1,11 +1,11 @@
-<img align="left" src="https://github.com/user-attachments/assets/aaf83333-30d6-42ff-b081-2b6dcc0fb478" alt="My Image" width="307"/>
+<img align="left" src="https://github.com/user-attachments/assets/ebe99833-82ff-4d07-8ff0-2e1606c0114f" alt="My Image" width="307"/>
 
 ```diff
 + THE PHONE IS HANGING UP, BUT YOU'RE STILL IN THE SAME SPOT!
 
 ```
 
-<img align="right" src="https://github.com/user-attachments/assets/ab699304-ad78-41e2-a1fe-28d41065f32b" alt="My Image" width="307"/>
+<img align="right" src="https://github.com/user-attachments/assets/13281c35-0af0-4ab9-a255-a15d952aeff5" alt="My Image" width="307"/>
 
 
 ```diff
@@ -37,6 +37,7 @@
 @@ P.S I'll be making githubs for the characters I roleplay, even if I don't have a github for a character @@
 @@ and you see me as them, feel free to rp nevertheless!! @@
 @@ Said githubs may contain hidden notes, hidden messages for lore on the characters. (MY INTERPRETATION) @@
+
 @@ 12/24/25 @@
 ```
 
