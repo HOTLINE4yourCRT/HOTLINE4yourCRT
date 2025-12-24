@@ -9,7 +9,8 @@
 
 
 ```diff
-+ ROLEPLAY PLEASE INT
++ ROLEPLAY PLEASE
++ FEEL FREE TO INT
 + if my status is AWAY
 + or MOON shaped
 + please avoid
@@ -35,9 +36,9 @@
 ```diff
 @@ MORE IN DEPTH INFO!! @@
 @@ I'll have a more personal(?) info page omewhere one day, awful procastinator. @@
-@@ I LOVEE socializing in most situations unless I'm not in the best mood / mindset,
+@@ I LOVEE socializing in most situations unless I'm not in the best mood / mindset, @@
 @@ if so I'll be on my party island or not talkative unless in whispers. @@
-@@ I am coming back to ponydown after one of the longest breaks,
+@@ I am coming back to ponydown after one of the longest breaks, @@
 @@ so I am rusty on roleplaying let alone skins. @@
 @@Please be patient with me!! I appreciate it sm. @@
 @@ Additionally, if you think I'm mischaracterizing a character, @@
